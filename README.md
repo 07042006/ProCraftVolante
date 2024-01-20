@@ -44,7 +44,7 @@ Eletrica
 		- [ ] Identificar Freio
 - Montagem
 	- Base
-		- [ X ] Esquema para arduino
+		- [X] Esquema para arduino
 		- [ ] Fazer as ligacoes
 
 
