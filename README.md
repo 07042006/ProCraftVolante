@@ -44,7 +44,7 @@ Eletrica
 		- [ ] Identificar Freio
 - Montagem
 	- Base
-		- [ ] Esquema para arduino
+		- [ X ] Esquema para arduino
 		- [ ] Fazer as ligacoes
 
 
@@ -55,6 +55,16 @@ A0 -> Leitura do potenciometro (Volante)
 7 -> Acelerador 
 8 -> Freio
 
+(20/01/2024)<br>
+Esquema para leitura de dados (teste),
+Da esquerda para a direita temos. (Volante/Freio/Acelerador)
+![Alt Text](./img/EsquemaV1.jpg)
+
+
+
+
 # Etapa 2
 
 Melhorias
+
+
