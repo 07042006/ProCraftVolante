@@ -58,7 +58,7 @@ A0 -> Leitura do potenciômetro (Volante)
 (20/01/2024)<br>
 Esquema para leitura de dados (teste),
 Da esquerda para a direita temos. (Volante/Freio/Acelerador)
-![Alt Text](./img/EsquemaV1.jpg)
+![Alt Text](./img/EsquemaV1.1.png)
 
 
 
