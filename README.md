@@ -1,7 +1,7 @@
 # ProCraftVolante
 ProCraftVolante - projeto
 
-Volante -> Analogico (0 a 1024 bytes) -> 512 Meio
+Volante -> Analógico (0 a 1024 bytes) -> 512 Meio
 
 > Pedais
 	 Acelerador -> 0 e 1 (Digitais)
@@ -12,16 +12,16 @@ Volante -> Analogico (0 a 1024 bytes) -> 512 Meio
 
 ![Alt Text](./img/EsquemaVolante.png)
 
-## Pegal Esquema
+## Pedal esquema
 ![Alt Text](./img/EsquemaPedais.png)
 
 
-## Mateiral
+## Material
 
 
-Uma unidade
+Para 1 unidade
 
-Eletrica
+Elétrica
 
 | Quantidade | Item |
 | ---- | ---- |
@@ -37,21 +37,21 @@ Eletrica
 
 
 
-- Codigo
+- Código
 	- Base
-		- [ ] Reconhecer leitura do potenciometro
-		- [ ] Ideintificar Acelerador
-		- [ ] Identificar Freio
+		- [X] Reconhecer leitura do potenciômetro
+		- [X] Identificar acelerador
+		- [X] Identificar freio
 - Montagem
 	- Base
 		- [X] Esquema para arduino
-		- [ ] Fazer as ligacoes
+		- [ ] Fazer as ligações
 
 
 
-Extra codigo
+Extra código
 
-A0 -> Leitura do potenciometro (Volante)
+A0 -> Leitura do potenciômetro (Volante)
 7 -> Acelerador 
 8 -> Freio
 
