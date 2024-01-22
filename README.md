@@ -29,6 +29,13 @@ Eletrica
 | 1 | Potenciometro |
 | -- | Fios |
 
+## Como testar
+
+Por alguma razão, o painel ‘Configurações do controlador de jogo-> Propriedades’ nem sempre funciona, especialmente para joysticks com muitos eixos e botões.
+
+
+http://www.planetpointy.co.uk/joystick-test-application/
+
 
 
 
