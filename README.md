@@ -62,13 +62,18 @@ A0 -> Leitura do potenciômetro (Volante)
 7 -> Acelerador 
 8 -> Freio
 
-(20/01/2024)<br>
+## Avanços
+
+### (20/01/2024)<br>
 Esquema para leitura de dados (teste),
 Da esquerda para a direita temos. (Volante/Freio/Acelerador)
 ![Esquema Pedais - V1.1](./img/Esquemav1_1.png)
 
 
-
+### (26/01/2026)</br>
+Além da chegada dos novos componentes, tivemos o marco de nosso primeiro 'volante' funcional.
+![image](https://github.com/07042006/ProCraftVolante/assets/50891842/aa52190f-0643-41f6-870c-6cad9cd4e923)
+Vídeo: [https://youtube.com/shorts/sR1wEa1rFtA?feature=share](https://www.youtube.com/shorts/sR1wEa1rFtA)https://www.youtube.com/shorts/sR1wEa1rFtA
 
 # Etapa 2
 
