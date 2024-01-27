@@ -52,7 +52,7 @@ http://www.planetpointy.co.uk/joystick-test-application/
 - Montagem
 	- Base
 		- [X] Esquema para arduino
-		- [ ] Fazer as ligações
+		- [X] Fazer as ligações
 
 
 
@@ -76,6 +76,16 @@ Além da chegada dos novos componentes, tivemos o marco de nosso primeiro 'volan
 Vídeo: [https://youtube.com/shorts/sR1wEa1rFtA?feature=share](https://www.youtube.com/shorts/sR1wEa1rFtA)https://www.youtube.com/shorts/sR1wEa1rFtA
 
 # Etapa 2
+
+- [X] Acelerador
+- [X] Freio
+- [ ] Busina
+- [ ] Setas {Esquerda/direita}
+- [ ] Ligar caminhao
+- [ ] Dois Btns extras (Marcha)
+
+
+
 
 Melhorias
 
