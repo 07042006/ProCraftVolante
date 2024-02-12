@@ -81,6 +81,12 @@ Fizemos os testes necessários e agora vamos partir para a parte mais importante
 ![image](https://github.com/07042006/ProCraftVolante/assets/50891842/96cfb1b7-6a32-416d-ba2a-fca79a69899a)
 Vídeo: [https://www.youtube.com/shorts/uhnNjlEjoes](https://www.youtube.com/shorts/uhnNjlEjoes)
 
+
+### (12/02/2024)<br>
+Desenvolvemos um pouco mais nossas habilidade e iniciamos a motar modelagens para melhor visualização do nosso projeto!
+Pedais para aceletador e freio
+![Modelagem inicial para pedais (prototipo)](./img/modelagempeda1.12.02.2024.png)
+
 # Etapa 2
 
 - [X] Acelerador
